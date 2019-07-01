@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Hello World Again!&#xD;&#xA;&#xD;&#xA;Testing new git branch" HorizontalAlignment="Left" Margin="124,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="103" Width="220">
+        <Label Content="Hello World Again!&#xA;&#xA;Testing new git release branch" HorizontalAlignment="Left" Margin="124,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="103" Width="220">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
